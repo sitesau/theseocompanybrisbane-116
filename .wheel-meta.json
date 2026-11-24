@@ -1,0 +1,22 @@
+{
+  "wheel_id": 959,
+  "structure": "chain",
+  "slug": "theseocompanybrisbane-116",
+  "project": "brisbane-seo-services-questions-to-ask-99fda94a9d17fb29512e6b61",
+  "parent_t1_ref": "theseocompanybrisbane-115",
+  "node_role": "feeder",
+  "money_target": "theseocompanybrisbane.com.au",
+  "primary_kw": "brisbane seo services questions to ask",
+  "intended_url": "https://sitesau.github.io/theseocompanybrisbane-116/",
+  "tier": "T2",
+  "writeback_nonce": "b3f491cd5602d987",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/brisbane-seo-services-how-to-choose-ea2d0643924dc5702386b58f3ad/",
+      "anchor": "Brisbane Seo Services How to Choose: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
